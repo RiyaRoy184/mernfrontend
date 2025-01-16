@@ -11,11 +11,11 @@ import salad from './greek_salads.jpg'
 import vsalad from './veg_salad.jpg'
 import italian from './italian_salad.jpg'
 import chsalad from './chicken_salad.jpg'
-import proll from './paneer_roll.jpg'
+// import proll from './Paneer_roll.jpg'
 import ciroll from './chilli_chicken.jpg'
 import eroll from './egg_roll.jpeg.jpg'
 import vroll from './veg_rolls.jpg'
-import dchoc from './Choclate_cake.jpg'
+// import dchoc from './choclate_cake.jpg'
 import dstraw from './Strawberry_IceCream.jpg'
 import dcara from './caramel_icecream.jpg'
 import dswril from './choclate_swirl.jpg' 
@@ -129,15 +129,15 @@ export const food_list = [
         category:"Salad"
 
     },
-    {
-        _id:"5",
-        name:"Paneer-Kathi Roll",
-        image:proll,
-        price:12,
-        description:"Deliciously wrapped and packed with flavor – rolls that are perfect for any craving!",
-        category:"Rolls"
+    // {
+    //     _id:"5",
+    //     name:"Paneer-Kathi Roll",
+    //     image:proll,
+    //     price:12,
+    //     description:"Deliciously wrapped and packed with flavor – rolls that are perfect for any craving!",
+    //     category:"Rolls"
 
-    },
+    // },
     {
         _id:"6",
         name:"Chicken Roll",
@@ -237,15 +237,15 @@ export const food_list = [
         category:"Sandwich"
 
     },
-    {
-        _id:"17",
-        name:"Choclate-Blackout Cake",
-        image:dchoc,
-        price:12,
-        description:"Cake is a sweet, baked dessert made with layers of fluffy goodness, often topped with icing and decorations.",
-        category:"Cakes"
+    // {
+    //     _id:"17",
+    //     name:"Choclate-Blackout Cake",
+    //     image:dchoc,
+    //     price:12,
+    //     description:"Cake is a sweet, baked dessert made with layers of fluffy goodness, often topped with icing and decorations.",
+    //     category:"Cakes"
 
-    },
+    // },
     {
         _id:"18",
         name:"Strawberry-Crunch Cake",
